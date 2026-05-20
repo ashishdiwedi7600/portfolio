@@ -1,0 +1,33 @@
+{
+  "name": "ashish-diwedi-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "framer-motion": "^11.18.0",
+    "lucide-react": "^0.511.0",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^2.6.0",
+    "next-themes": "^0.4.4",
+    "react-intersection-observer": "^9.16.0",
+    "react-countup": "^6.5.3",
+    "sonner": "^1.7.4",
+    "@tsparticles/react": "^3.0.0",
+    "@tsparticles/slim": "^3.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^9",
+    "eslint-config-next": "^15.1.0",
+    "tailwindcss": "^3.4.17",
+    "postcss": "^8",
+    "autoprefixer": "^10.0.1"
+  }
+}
